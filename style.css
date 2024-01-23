@@ -1,0 +1,19 @@
+h3 {
+    font-size: 25px !important;
+}
+
+canvas {
+    border-color: rgb(88, 213, 107);
+    border-style: solid;
+    border-radius: 78px;
+    border-width: 15px;
+}
+    /*animation-name: example;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+
+
+/*@keyframes example{
+    from {box-shadow: 1px 1px 38px rgb(246, 143, 143)}
+    to {box-shadow: 1px 1px 38px rgb(190, 128, 213)}
+}
